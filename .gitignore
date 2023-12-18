@@ -1,2 +1,5 @@
-.env.gcp.yaml
 .env
+.gcp
+.yaml
+
+
